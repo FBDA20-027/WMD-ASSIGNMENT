@@ -1,0 +1,29 @@
+body{
+  background-image:url('https://www.intelligentliving.co/wp-content/uploads/2019/09/Echo_Park_Lake_with_Downtown_Los_Angeles_Skyline.jpg');
+  background-size:cover;
+  background-position:center;
+  height:100vh;
+  display:overflow;
+  flex-direction:column;
+  justify-content:center;
+  
+}
+#showcase h1{
+    font-size:70px;
+    line-height:1.6;
+    color:white;
+	text-align:center;  
+}
+#showcase p{
+    font-size:50px;
+    line-height:1.6;
+    color:white;  
+	text-align:center;
+}
+
+#section{
+	font-family:Arial; 
+	color:#ffffff; 
+	align-items:center; 
+	text-align:center;
+}
